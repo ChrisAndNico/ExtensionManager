@@ -1,5 +1,4 @@
-# If you can´t wait and read....
-[See Release-Section](https://github.com/ExtensionManager/ExtensionManager/releases)
+[LATEST RELEASE](https://github.com/ExtensionManager/ExtensionManager/releases)
 # Welcome
 Hello Exile players, and welcome to our Extension-Manager post. This thread was founded on the 1st of September 2017. Check out our new tool and please read carefully what it's all about. We would appreciate your help, feedback, and Ideas on making this tool even better. Path of Exile Extension Manager will ALWAYS be FREE, but donations are welcomed. All donations will go towards the future development of our tool. Please be sure to download the tool only from our site, we cannot guarantee any other location is safe, so be warned!
 ***
