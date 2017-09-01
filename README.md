@@ -9,12 +9,19 @@ Firstly, a little bit about the dev team.  My Name is Nico and I am the designer
 ***
 # What the PoE Extension Manager can offer you: 
 Easy – let's go through the normal way of starting PoE after a long hard day of work/or school. 
+
 Step 1: FCK Yeah, let's play some PoE today. 
+
 Step 2: Wait, I need a shit load of Extension's to really make my gameplay perfect.  
+
 Step 3: So, let's go to the folder where I have all my nice Extensions installed.
+
 Step 4: Start the first Extension, for example, Path of Building, so you know how to set up your Character.
+
 Step 5: Start the second Extension, for example, TradeMacro, to check in-game currency and prices.
+
 Step 6: Start the third Extension, for example, MercuryTrade for better in-game trading.
+
 Step 7: Start other tools like chat helper, or your Browser to search for the Build or video guides. 
 
 Phew! that takes a lot of time, right? So here we come! To the rescue PoE-Extension Manager! We handle all those add-ons and extensions in only one small tool.
