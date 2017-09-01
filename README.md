@@ -36,6 +36,7 @@ Another neat feature is when you close PoE down, you can simply press the power 
 ***
 # FAQ 
 Q: Your English isn't bad! how come? 
+
 A: I asked an English friend to check it for me, he admits it isn't perfect, but its a damn-sight better than the original. ;)
 
 Q: Is this tool safe? 
