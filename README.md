@@ -53,7 +53,7 @@ Q: Is there any way to contact you?
 A: Under the help options within the tool, you can find our support email address. /Spoiler/
 ***
 # Versions and Changelog
-[Coming Soon](https://www.google.com)
+[See Release-Section](https://github.com/ExtensionManager/ExtensionManager/releases)
 ***
 # Roadmap
 Check the PoE Forum:
