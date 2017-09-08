@@ -76,7 +76,7 @@ A: Sure, and we hope that we can improve the tool together. Please use this foru
 
 ## Q: Is there any way to contact you? 
 
-A: Under the help options within the tool, you can find our support email address. /Spoiler/
+A: Under the help options within the tool, you can find our support email address.
 ***
 # Versions and Changelog
 [See Release-Section](https://github.com/ExtensionManager/ExtensionManager/releases)
@@ -84,5 +84,9 @@ A: Under the help options within the tool, you can find our support email addres
 # Roadmap
 Check the PoE Forum:
 [Coming Soon](https://www.pathofexile.com/forum/view-thread/1986007/page/1#p14838505)
+
+# Important
+
+All the information displayed on our site are for private, learning or educational purposes only! We do not condone any illegal activity and take no responsibility at all for actions performed by anyone! 
 
 
