@@ -77,7 +77,7 @@ A: Under the help options within the tool, you can find our support email addres
 ***
 # Roadmap
 Check the PoE Forum:
-[Coming Soon](https://www.pathofexile.com/forum/view-thread/1986007/page/1#p14838505)
+[Coming Soon]
 
 # Important
 
