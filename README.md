@@ -6,7 +6,7 @@ Hello players, and welcome to our Extension-Manager post. This thread was founde
 # About the Dev-Team
 Firstly, a little bit about the dev team.  My Name is Nico and I am the designer of the Game Extension Manager. Beside me is Chris, who is the programmer and scripter. We are two German guys in our mid 30´s and we love gaming. We have kids, family and have been best friends for a number of years. Design and Coding are not our jobs in real life, so we don't expect everything to be perfect from the beginning, but we are working hard in our free-time to improve and upgrade this tool. We created this tool, as we were annoyed at the amount of time wasted on setting up extensions and add-ons, and thought, let's fix it. We started off small, creating simple batch scripts to make our life easier, and now it has turned into the extension manager tool, which we are extremely proud of, and that we are now looking forward to sharing with the community. Making this great game, even better. 
 ***
-![alt text](http://i.xomf.com/jjbwy.png "Example Screen")
+![alt text](http://i.xomf.com/lrfdg.png "Example Screen")
 ***
 # What the Game Extension Manager can offer you: 
 Easy – let's go through the normal way of starting a Game like Path of Exile or WoW after a long hard day of work/or school. 
