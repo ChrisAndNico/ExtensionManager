@@ -1,3 +1,7 @@
+Update 29.09.17
+We are very sorry, but we are facing some issues.
+So the release will be delayed a few days.
+
 
 [===>LATEST RELEASE<===](https://github.com/ExtensionManager/ExtensionManager/releases)
 # Welcome
